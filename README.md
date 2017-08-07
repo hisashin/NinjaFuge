@@ -7,7 +7,7 @@ Opensource ([CC BY-NC-SA 2.5](https://creativecommons.org/licenses/by-nc-sa/2.5/
 - [Please note before making](#note)
 - [Bill of material](#bom)
 - [Wirings](#wire)
-- [Source code](#source)
+- [Source code](https://github.com/hisashin/NinjaFuge/blob/master/sourcecode/NinjaFuge/NinjaFuge.ino)
 
 ### <a name="faq"></a>FAQ
 
@@ -55,7 +55,5 @@ Opensource ([CC BY-NC-SA 2.5](https://creativecommons.org/licenses/by-nc-sa/2.5/
 ### <a name="wire"></a>Wirings
 
 ![diagram](https://raw.githubusercontent.com/hisashin/NinjaFuge/master/markdown/diagram.png)
-
-### <a name="source"></a>Source code
 
 
