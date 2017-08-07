@@ -39,16 +39,16 @@ Opensource ([CC BY-NC-SA 2.5](https://creativecommons.org/licenses/by-nc-sa/2.5/
 - Some heat shrinkable tubes with different diameters to protect soldering
 - Small Arduino like [Arduino Nano](https://store.arduino.cc/usa/arduino-nano), [Arduino Pro Mini](https://store.arduino.cc/usa/arduino-pro-mini) or anything compatible
 
-- If you're living in same country as me, Japan, you're lucky! No need to change lasercut design if you use them.
+- Are you living in Japan as me? Good. No need to change lasercut design if you use them.
 
 	- [Brushless motor and ESC kit](https://www.amazon.co.jp/gp/product/B01MTCBO7D/ref=oh_aui_detailpage_o09_s00?ie=UTF8&psc=1)
 	- [Variable resistor](http://akizukidenshi.com/catalog/g/gP-00246/)
 	- [Single circuit locker switch](https://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=3A8K-4BFY)
 	- [Neodymium magnet](http://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=EEHD-4VZZ)
 	- [Reed switch](http://akizukidenshi.com/catalog/g/gP-03676/)
-	- [Hinge](https://hands.net/goods/4991807041876/)
+	- [Hinge](https://hands.net/goods/4991807041906/)
 	- [DC jack](http://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=EEHD-0HMZ)
-	- [12V AC adapter](http://akizukidenshi.com/catalog/g/gM-06961/)
+	- [12V AC adapter](http://akizukidenshi.com/catalog/g/gM-06961/) 5A might be too much but 1A wasn't enough.
 
 - If not, it would be cheaper to find items similar to above list around you and change lasercut a little for each of them.
 
