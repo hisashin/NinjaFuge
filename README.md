@@ -54,6 +54,8 @@ Opensource ([CC BY-NC-SA 2.5](https://creativecommons.org/licenses/by-nc-sa/2.5/
 
 ### <a name="wire"></a>Wirings
 
+![diagram](https://raw.githubusercontent.com/hisashin/NinjaFuge/master/markdown/diagram.png)
+
 ### <a name="source"></a>Source code
 
 
