@@ -73,5 +73,4 @@ Opensource ([CC BY-NC-SA 2.5](https://creativecommons.org/licenses/by-nc-sa/2.5/
 
 ### <a name="assembly"></a>Assembly instructions
 
-- Todo
-	- Make latest version from scratch taking photos or movies for documentation. Anyone want to have one?
+- Need to make latest model from scratch taking photos or movies to document here. Anyone want to do that?
