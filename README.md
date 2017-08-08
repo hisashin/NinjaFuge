@@ -22,10 +22,10 @@ Opensource ([CC BY-NC-SA 2.5](https://creativecommons.org/licenses/by-nc-sa/2.5/
 
 ### <a name="change"></a>Changelogs
 
-- 2017 Aug 7
-	- Changed enclosure from 3d printing to acrylic lasercut. because I thought printing takes too long time and might fail.
+- 2017 Aug 7 : Changes from [F.Lab's one](http://www.instructables.com/id/3D-Printed-DIYbio-Mini-Centrifuge/)
+	- Enclosure is changed from 3d printing to acrylic lasercut. because I think printing takes too long time and easier to get fail.
 	- Added magnet to cover and reed switch to base. so that it can stop rorating when cover is opened.
-- 2017 Aug 8
+- 2017 Aug 8 : Safety lock to cover
 	- I don't know how to brake motor and it takes seconds to stop rorating. That means it's still not safe perfectly. 
 	Small servo motor should be added to lock the cover while rotating.
 
