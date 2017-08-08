@@ -62,10 +62,10 @@ Opensource ([CC BY-NC-SA 2.5](https://creativecommons.org/licenses/by-nc-sa/2.5/
 	- [Neodymium magnet](http://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=EEHD-4VZZ)
 	- [Reed switch](http://akizukidenshi.com/catalog/g/gP-03676/)
 	- [Hinge](https://hands.net/goods/4991807041906/)
+	- [4 rubber foot if you want](http://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=6AZE-JELC)
 	- [DC jack](http://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=EEHD-0HMZ)
 	- [12V AC adapter](http://akizukidenshi.com/catalog/g/gM-06961/)
 		- 5A might be too much but 1A wasn't enough.
-	- [4 rubber foot if you want](http://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=6AZE-JELC)
 
 - If not, it would be cheaper to find items similar to above list around you and change lasercut a little for each of them.
 
