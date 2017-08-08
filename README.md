@@ -18,7 +18,7 @@ Opensource ([CC BY-NC-SA 2.5](https://creativecommons.org/licenses/by-nc-sa/2.5/
 
 - How fast?
 
-	12,000RPM in my case by connecting 12V adapter to cheapest ($10) 1000KV (that means +1000RPM per 1V) motor. You can make faster one if you choose better motor. Check absolute maximum voltages of your kit and Arduino.
+	12,000RPM in my case by connecting 12V adapter to cheapest ($10) 1000KV (that means +1000RPM per 1V) motor. You can make faster one if you can use higher voltage or faster motor. Check absolute maximum voltages of your kit and Arduino.
 
 ### <a name="change"></a>Changelogs
 
