@@ -14,7 +14,7 @@ Opensource ([CC BY-NC-SA 2.5](https://creativecommons.org/licenses/by-nc-sa/2.5/
 
 - How much?
 
-	I made at $20 from items on sale and junk parts. If you buy everythings new in Japan, total parts price is $75 now.
+	I made at $20 from junks. If you buy everythings new in Japan, total parts price is $75 now.
 
 - How fast?
 
