@@ -1,12 +1,12 @@
 #include <Servo.h>
 
-#define PIN_VR 1
+#define PIN_VR 0
 #define PIN_MAGNET 2
-#define PIN_ESC 10
+#define PIN_ESC 3
 #define PIN_LED 13
 #define SPEED_STOP 500
 #define SPEED_MIN 1150
-#define SPEED_MAX 1200
+#define SPEED_MAX 1500
 
 Servo myservo;
 
@@ -21,10 +21,11 @@ void setup() {
   calib();
   doorOpen = !isMagExists();
   Serial.begin(9600);
-  if(doorOpen) 
+  if(doorOpen) {
     Serial.println("initial door=open" );
-  else
+  } else {
     Serial.println("initial door=closed" );
+  }
 }
 
 int val;
@@ -35,7 +36,7 @@ void loop() {
     val = SPEED_STOP;
   } else {
     val = analogRead(PIN_VR);
-    val = map(val, 0, 1023, SPEED_MIN, SPEED_MAX);
+    val = map(val, 1023, 0, SPEED_MIN, SPEED_MAX);
   }
   //Serial.println("val=" + val);
   myservo.writeMicroseconds(val);
@@ -47,16 +48,19 @@ boolean isMagExists() {
 
 void checkDoor() {
   doorOpen = !isMagExists();
-  if(doorOpen) 
+  if(doorOpen) {
     Serial.println("checkDoor door=open" );
-  else
+  } else {
     Serial.println("checkDoor door=closed" );
+  }
   digitalWrite(PIN_LED, !doorOpen);
 }
 
 void calib() {
   myservo.write(0);
+  //myservo.writeMicroseconds(SPEED_MIN);
   delay(1000);
   myservo.write(30);
+  //myservo.writeMicroseconds(SPEED_MAX);
   delay(3000);
 }
