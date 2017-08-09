@@ -43,14 +43,16 @@ Opensource ([CC BY-NC-SA 2.5](https://creativecommons.org/licenses/by-nc-sa/2.5/
 
 ### <a name="bom"></a>Bill of material
 
-- Lasercut 3mm acrylic parts with [this](https://github.com/hisashin/NinjaFuge/blob/master/lasercut/NinjaFuge_3mm_clear.pdf).
+I used acrylic board, polycarbonate screws and plastic spacers. If you want to proof it against rotor break, polycarbonate board, steel screws and [nylon nuts](https://en.wikipedia.org/wiki/Nyloc_nut) are recommended.
+
+- Lasercut 3mm acrylic or polycarbonate parts with [this](https://github.com/hisashin/NinjaFuge/blob/master/lasercut/NinjaFuge_3mm_clear.pdf).
 - 3d printed [rotor](https://github.com/hisashin/NinjaFuge/blob/master/3dprint/stl/NinjaFuge_F.lab_Rotor.stl) and [motor base](https://github.com/hisashin/NinjaFuge/blob/master/3dprint/stl/NinjaFuge_motor_holder.stl) with any material.
 - Some heat shrinkable tubes with different diameters are useful to protect solderings.
 - Small microcontroller like [Arduino Nano](https://store.arduino.cc/usa/arduino-nano) ($22), [Arduino Pro Mini](http://www.sparkfun.com/products/11113) ($10) or anything you like. If you can make Arduino with [Arduino](https://www.arduino.cc/en/Tutorial/ArduinoISP) or [AVRISP mkII](http://www.atmel.com/tools/avrispmkii.aspx), single [ATmega328](https://www.digikey.jp/product-detail/ja/microchip-technology/ATMEGA328P-PU/ATMEGA328P-PU-ND/1914589) ($2.2) is enough. In any case, these pins are required.
 	- 1 analog input for tune
 	- 1 digital input to catch [interrupt](https://www.arduino.cc/en/Reference/AttachInterrupt) of reed switch
 	- 2 digital output for ESC and door lock servo. VCC should be connected to them too. Refer [Wirings](#wire).
-- Parts for enclosure. Polycarbonate screws with plastic spacers are enough.
+- Parts for enclosure
 	- 29 M3 10mm screws
 	- 8 M3 nuts
 	- 4 M3 25mm spacer (both female) for base
