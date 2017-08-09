@@ -10,7 +10,7 @@ NinjaFuge
 Opensource ([CC BY-NC-SA 2.5](https://creativecommons.org/licenses/by-nc-sa/2.5/)) centrifuge with cover sensor and lock. Derived from [F.Lab's one](http://www.instructables.com/id/3D-Printed-DIYbio-Mini-Centrifuge/).
 
 - [Frequently asked questions](#faq)
-- [What we changed](#change)
+- [Changelog](#change)
 - [Please note before making](#note)
 - [Bill of material](#bom)
 - [Wirings](#wire)
@@ -27,7 +27,7 @@ Opensource ([CC BY-NC-SA 2.5](https://creativecommons.org/licenses/by-nc-sa/2.5/
 
 	12,000RPM in my case by connecting 12V adapter to cheapest ($10) 1000KV (that means +1000RPM per 1V) motor. You can make faster one if you can use higher voltage or faster motor. Do not exceed absolute maximum voltages of motor, ESC and microcontroller.
 
-### <a name="change"></a>Changelogs
+### <a name="change"></a>Changelog
 
 - 2017 Aug 7 : Changes from [F.Lab's one](http://www.instructables.com/id/3D-Printed-DIYbio-Mini-Centrifuge/)
 	- Enclosure is changed from 3d printing to acrylic lasercut. because I think printing takes too long time and easier to get fail.
@@ -40,10 +40,9 @@ Opensource ([CC BY-NC-SA 2.5](https://creativecommons.org/licenses/by-nc-sa/2.5/
 
 - Any hinge around you can be used but yours will not be same as mine. Don't forget to change holes on both cover_back and base_back to yours.
 - Similar minor changes will be required for other parts like motor, variable resistor and switch. If you use bigger Arduino, basement should be wider.
+- I used acrylic board, polycarbonate screws and nuts. If you want to proof it against rotor break, polycarbonate board, steel screws and [nylon nuts](https://en.wikipedia.org/wiki/Nyloc_nut) are recommended.
 
 ### <a name="bom"></a>Bill of material
-
-I used acrylic board, polycarbonate screws and nuts. If you want to proof it against rotor break, polycarbonate board, steel screws and [nylon nuts](https://en.wikipedia.org/wiki/Nyloc_nut) are recommended.
 
 - Lasercut 3mm acrylic or polycarbonate parts with [this](https://github.com/hisashin/NinjaFuge/blob/master/lasercut/NinjaFuge_3mm_clear.pdf).
 - 3d printed [rotor](https://github.com/hisashin/NinjaFuge/blob/master/3dprint/stl/NinjaFuge_F.lab_Rotor.stl) and [motor base](https://github.com/hisashin/NinjaFuge/blob/master/3dprint/stl/NinjaFuge_motor_holder.stl) with any material.
