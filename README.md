@@ -43,7 +43,7 @@ Opensource ([CC BY-NC-SA 2.5](https://creativecommons.org/licenses/by-nc-sa/2.5/
 
 ### <a name="bom"></a>Bill of material
 
-I used acrylic board, polycarbonate screws and plastic spacers. If you want to proof it against rotor break, polycarbonate board, steel screws and [nylon nuts](https://en.wikipedia.org/wiki/Nyloc_nut) are recommended.
+I used acrylic board, polycarbonate screws and nuts. If you want to proof it against rotor break, polycarbonate board, steel screws and [nylon nuts](https://en.wikipedia.org/wiki/Nyloc_nut) are recommended.
 
 - Lasercut 3mm acrylic or polycarbonate parts with [this](https://github.com/hisashin/NinjaFuge/blob/master/lasercut/NinjaFuge_3mm_clear.pdf).
 - 3d printed [rotor](https://github.com/hisashin/NinjaFuge/blob/master/3dprint/stl/NinjaFuge_F.lab_Rotor.stl) and [motor base](https://github.com/hisashin/NinjaFuge/blob/master/3dprint/stl/NinjaFuge_motor_holder.stl) with any material.
