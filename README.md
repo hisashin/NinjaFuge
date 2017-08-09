@@ -1,5 +1,12 @@
 NinjaFuge
 ==========
+
+![logo](https://raw.githubusercontent.com/hisashin/NinjaFuge/master/markdown/image/ninja_transparent_500x412.png)
+
+![photo](https://raw.githubusercontent.com/hisashin/NinjaFuge/master/markdown/photo/closed1_500x667.jpg)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6wPBDhJhW8Q" frameborder="0" allowfullscreen></iframe>
+
 Opensource ([CC BY-NC-SA 2.5](https://creativecommons.org/licenses/by-nc-sa/2.5/)) centrifuge with cover sensor and lock. Derived from [F.Lab's one](http://www.instructables.com/id/3D-Printed-DIYbio-Mini-Centrifuge/).
 
 - [Frequently asked questions](#faq)
