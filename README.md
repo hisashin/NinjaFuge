@@ -25,7 +25,7 @@ Opensource ([CC BY-NC-SA 2.5](https://creativecommons.org/licenses/by-nc-sa/2.5/
 
 - How fast?
 
-	12,000RPM in my case by connecting 12V adapter to cheapest ($10) 1000KV (that means +1000RPM per 1V) motor. You can make faster one if you can use higher voltage or faster motor. Do not exceed absolute maximum voltages of motor, ESC and microcontroller.
+	Max 12,000RPM in my case by connecting 12V adapter to cheapest ($10) 1000KV (that means +1000RPM per 1V) motor. You can make it faster if you use higher voltage, faster motor or enough ampere. Do not exceed absolute maximum voltages of motor, ESC and microcontroller.
 
 ### <a name="change"></a>Changelog
 
@@ -73,7 +73,7 @@ Opensource ([CC BY-NC-SA 2.5](https://creativecommons.org/licenses/by-nc-sa/2.5/
 	- [4 rubber foot if you want](http://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=6AZE-JELC)
 	- [DC jack](http://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=EEHD-0HMZ)
 	- [12V AC adapter](http://akizukidenshi.com/catalog/g/gM-06961/)
-		- 5A might be too much but 1A wasn't enough.
+		- 5A looks well. 1A wasn't enough. If you need maximum RPM, check how much ampere your ESC needs.
 
 - If not, it would be cheaper to find items similar to above list around you and move [holes](https://github.com/hisashin/NinjaFuge/blob/master/lasercut/NinjaFuge_3mm_clear.pdf) a little for each of them.
 
