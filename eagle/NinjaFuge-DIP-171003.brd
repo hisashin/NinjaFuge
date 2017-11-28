@@ -2563,13 +2563,13 @@ design rules under a new name.</description>
 <element name="POWER" library="led" package="LED3MM" value="" x="78" y="21" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="76.095" y="19.349" size="1.27" layer="28" ratio="10" rot="MR0"/>
 </element>
-<element name="R4" library="rcl" package="0204/5" value="500" x="57.7" y="22.4" smashed="yes">
+<element name="R4" library="rcl" package="0204/5" value="330" x="57.7" y="22.4" smashed="yes">
 <attribute name="NAME" x="56.7602" y="21.9682" size="0.9906" layer="25" ratio="10"/>
 </element>
 <element name="CLOSE_DOOR_ALERT" library="led" package="LED3MM" value="" x="70" y="21" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="68.095" y="19.349" size="1.27" layer="28" ratio="10" rot="MR0"/>
 </element>
-<element name="R5" library="rcl" package="0204/5" value="160" x="57.7" y="20.4" smashed="yes">
+<element name="R5" library="rcl" package="0204/5" value="100" x="57.7" y="20.4" smashed="yes">
 <attribute name="NAME" x="56.7094" y="19.9682" size="0.9906" layer="25" ratio="10"/>
 </element>
 <element name="IC2" library="linear" package="TO220V" value="7805TV" x="16" y="23" smashed="yes">
